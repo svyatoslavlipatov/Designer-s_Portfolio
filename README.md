@@ -27,9 +27,11 @@
         - [Модель холодильника 😎](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Basics_of_computer_graphics/FIGMA/refrigerator%20model)
 
 - **[Предмет "Языки разметки сетевого контента"](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Network%20content%20markup%20languages)**
-    - [Сайт портфолио 😎]()
+    - [Сайт портфолио 😎](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Network%20content%20markup%20languages/PORTFOLIO%20WEBSITE)
     - [SVG работы 😎]()
-        - [Базовые фигуры 😎]()
-        - [Заливка и обводка 😎]()
-        - [Паттерны, маски и маркеры 😎]()
+        - [Базовые фигуры 😎](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Network%20content%20markup%20languages/SVG/Base%20Figures)
+        - [Заливка и обводка 😎](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Network%20content%20markup%20languages/SVG/Fill%20and%20stroke)
+        - [Паттерны, маски и маркеры 😎](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Network%20content%20markup%20languages/SVG/Patterns%2C%20masks%20and%20markers)
+        - [Масштабирование 😎](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Network%20content%20markup%20languages/SVG/Scaling)
+        - [Тексты, фильтры, градиенты 😎](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Network%20content%20markup%20languages/SVG/Text%2C%20filters%2C%20gradients)
     

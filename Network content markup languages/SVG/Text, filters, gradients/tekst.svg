@@ -1,0 +1,26 @@
+<svg width="800" height="225" viewBox="0 0 405 115"
+xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
+<linearGradient id="linear-gradient" >
+<stop offset="0" stop-color="gold"></stop>
+<stop offset="1%" stop-color="red"></stop>
+<stop offset="25%" stop-color="darkviolet"></stop>
+<stop offset="100%" stop-color="deepskyblue"></stop>
+</linearGradient>
+
+<linearGradient id="radial-gradient">
+<stop offset="5%" stop-color="#191714"></stop>
+<stop offset="100%" stop-color="#2234ae"></stop>
+</linearGradient>
+
+<defs>  
+<path id="textpath" fill="none" stroke="url(#radial-gradient)" d="M0.057,0.024c0,0,1.99,55.603,105.248,45.603c91.259,0,55.172,53.9,2007.172,50.992"/>  
+</defs>
+
+<use xlink:href="#textpath"/>  
+<text x="10" y="100" font-size="14px" font-weight="bold" stroke="black" stroke-width="0.18" fill="url(#linear-gradient)" style="font-family: monospace; serif; font-weight: normal; font-style: normal">  
+<textPath xlink:href="#textpath">  
+Программист, написавший программу, становится ученым.
+</textPath>  
+</text>
+
+</svg>

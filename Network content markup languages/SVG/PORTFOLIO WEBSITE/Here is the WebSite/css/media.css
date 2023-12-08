@@ -1,0 +1,135 @@
+@media (max-width: 1140px) {
+    
+    .card,.aboutcard-description,.aboutcard-photo, .projectcard {
+        width: 49%;
+    }
+
+    .footer {
+        padding-top: 40px;
+        padding-bottom: 60px;
+    }
+
+    .footer-row {
+        flex-direction: column-reverse;
+        align-items: center;
+        text-align: center;
+    }
+
+    .footer-col {
+        margin-bottom: 50px;
+    }
+
+    .footer-col:first-child {
+        margin-bottom: 0;
+    }
+
+
+}
+
+@media (max-width: 775px) {
+
+    .header-title {
+        font-size: 45px;
+    }
+
+    .header-subtitle {
+        font-size: 15px;
+    }
+
+    .portfolio, .about {
+        padding-top: 40px;
+        padding-bottom: 60px;
+    }
+
+    .portfolio-header,.about-header, .project-header {
+        font-size: 30px;
+        margin-bottom: 30px;
+    }
+
+    .portfolio-cards-wrapper,.about-cards-wrapper, .project-cards-wrapper {
+        justify-content: center;
+    }
+
+    .card,.aboutcard-description,.aboutcard-photo, .projectcard {
+        max-width: 530px;
+        width: 100%;
+    }
+
+    .card:nth-last-child(2) {
+        margin-bottom: 30px;
+    }
+
+    .projectcard:nth-last-child(2) {
+        margin-bottom: 30px;
+    }
+
+    .aboutcard-description:nth-last-child(2) {
+        margin-bottom: 30px;
+    }
+
+    .aboutcard-photo:nth-last-child(2) {
+        margin-bottom: 30px;
+    }
+
+    .card-link {
+        padding: 5px;
+    }
+
+    .card-img,.aboutcard-description-img,.aboutcard-photo-img, .projectcard-img {
+        margin-bottom: 10px;
+    }
+
+    .card-title, .aboutcard-description-title,.aboutcard-photo-title, .projectcard-title {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+
+    .card p,.projectcard p, .aboutcard-description p,  .aboutcard-photo p {
+        font-size: 16px;
+    }
+
+    .footer-copyright-name {
+        font-size: 20px;
+        margin-bottom: 5px;
+    }
+
+    .footer-copyright p {
+        font-size: 14px;
+    }
+
+    .footer-icons p {
+        font-size: 14px;
+    }
+    
+    .footer-contacts p {
+        font-size: 14px;
+        margin: 0;
+        margin-top: 15px;
+    }
+
+    .footer-button{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .about-button {
+        font-size: 15px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .project {
+        padding: 40px 0 60px;
+    }
+
+    .project-header {
+        font-size: 28px;
+        margin-bottom: 30px;
+    }
+
+    .project-btn-back {
+        padding: 0 10px;
+        width: 100%;
+        max-width: 320px;
+    }
+}

@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Сайт Портфолио</title>
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/media.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="img/sitelogo/logo.ico" type="image/x-icon">
+</head>
+<body>
+
+    <header class="header" id="header">
+        <h1 class="header-title">LIPAY</h1>
+        <p class="header-subtitle">DESIGNER</p>
+        <a href="#about" class="header-arrow">
+            <img src="img/header/arrow.svg" height="15px" width="35px" alt="Arrow">
+        </a>
+    </header>
+
+    <main>
+        <section class="about" id="about">
+            <div class="container">
+                <h2 class="about-header">Обо мне <img src="img/smiles/think.png" width="30" height="30"></h2>
+        
+                <div class="about-cards-wrapper">
+                    <div class="aboutcard-photo">
+                            <img class="aboutcard-photo-img" src="img/photo/me.png" w alt="Фотка">
+                            <h3 class="aboutcard-photo-title">Это я <img src="img/smiles/hello.png" width="20" height="20"></h3>
+                            <p></p>
+                    </div>
+
+                    <div class="aboutcard-description">
+                            <h3 class="aboutcard-description-title">Привет,</h3>
+                            <p>Я <span class="highlight">Святослав Липатов</span>. Мне 18 годиков и я учусь в универе. Делаю работы в графических редакторах (Фотошоп, Фигма).</p>
+                            <a href="https://vk.me/liipayy" class="about-button">Связаться со мной </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="portfolio" id="portfolio">
+            <div class="container">
+                <h2 class="portfolio-header">Портфолио</h2>
+                <div class="portfolio-cards-wrapper">
+                    <div class="card">
+                        <a href="sitesport/photoshop.html" class="card-link">
+                            <img class="card-img" src="img/portfolio/photoshop.jpg" alt="Пример фотошоп">
+                            <h3 class="card-title">Photoshop</h3>
+                            <p>Примеры работ в программе Adobe Photoshop</p>
+                        </a>
+                    </div>    
+
+                    <div class="card">
+                        <a href="sitesport/vizitki.html" class="card-link">
+                            <img class="card-img" src="img/portfolio/visit.jpg" alt="Пример визитки">
+                            <h3 class="card-title">Визитки </h3>
+                            <p>Примеры дизайна визиток</p>
+                        </a>
+                    </div>
+
+                    <div class="card">
+                        <a href="sitesport/figma.html" class="card-link">
+                            <img class="card-img" src="img/portfolio/figma.jpg" alt="Пример фигма">
+                            <h3 class="card-title">Figma</h3>
+                            <p>Примеры работ в Figma</p>
+                        </a>
+                    </div>
+
+                    <div class="card">
+                        <a href="sitesport/ytb.html" class="card-link">
+                            <img class="card-img" src="img/portfolio/youtube.jpg" alt="Пример ютюб">
+                            <h3 class="card-title">Для ютюба</h3>
+                            <p>Работы для ютюба</p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>  
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-row">
+                <div class="footer-copyright footer-col">
+                    <div class="footer-copyright-name">LIPAY</div>
+                    <a href="https://creativecommons.org/licenses/by-nc/3.0/" target="_blank">
+                        <p><img class="card-img" src="img/license/license.png" width="80" height="25" alt="Лицензия"></p>
+                    </a>
+                </div>     
+
+                <div class="footer-icons footer-col">
+                    <p>Социальные сети:</p>
+                    <div class="footer-icons-row">
+                        <a href="https://vk.com/liipayy" target="_blank">
+                            <img src="img/icons/vk.svg" width="38" height="38" alt="вк">
+                        </a>
+                        <a href="https://t.me/liipayy" target="_blank">
+                            <img src="img/icons/telegram.svg" width="38" height="38" alt="тг">
+                        </a>
+                        <a href="https://www.instagram.com/liipayy" target="_blank">
+                            <img src="img/icons/instagram.svg" width="38" height="38" alt="инст">
+                        </a>                
+                    </div>
+                </div>
+
+                <div class="footer-contacts footer-col">
+                    <a href="https://vk.me/liipayy" class="footer-button">
+                        Связаться со мной
+                    </a>
+                    <p>Я не кусаюсь ;)</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.waves.min.js"></script>
+    <script>
+        VANTA.WAVES({
+        el: "#header",
+        mouseControls: true,
+        touchControls: true,
+        gyroControls: true,
+        minHeight: 200.00,
+        minWidth: 200.00,
+        scale: 1.00,
+        scaleMobile: 1.00,
+        backgroundColor: 0x19151e,
+        color: 0xf1216,
+        waveHeight: 7.50,
+        waveSpeed: 0.50,
+        zoom: 0.65
+        })
+    </script>
+
+    <script src="scripts/smoothmove.js"></script>
+
+
+</body>
+</html>

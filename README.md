@@ -23,5 +23,5 @@
         - [Фрактальный узор 🤖](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Basics_of_computer_graphics/COREL/fractal%20pattern)
         - [Леттеринг 🤖](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Basics_of_computer_graphics/COREL/lettering)
     - [Figma 😎](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Basics_of_computer_graphics/FIGMA)
-        - [Модель интерфейса 😎](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Basics_of_computer_graphics/FIGMA/interface%20model)
+        - [Модель интерфейса 😎](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Basics_of_computer_graphics/FIGMA/interface)
         - [Модель холодильника 😎](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Basics_of_computer_graphics/FIGMA/refrigerator%20model)

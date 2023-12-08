@@ -34,4 +34,7 @@
         - [Паттерны, маски и маркеры 😎](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Network%20content%20markup%20languages/SVG/Patterns%2C%20masks%20and%20markers)
         - [Масштабирование 😎](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Network%20content%20markup%20languages/SVG/Scaling)
         - [Тексты, фильтры, градиенты 😎](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Network%20content%20markup%20languages/SVG/Text%2C%20filters%2C%20gradients)
-    
+
+- **[Предмет "Мультмедия технологии и анимации"](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Multimedia%20technologies%20and%20animation)**
+    - [Пиксельная графика (статика) 😎](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Multimedia%20technologies%20and%20animation/Пиксельная%20графика%20(анимация))
+    - [Пиксельная графика (анимация) 😎](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Multimedia%20technologies%20and%20animation/Пиксельная%20графика%20(статика))

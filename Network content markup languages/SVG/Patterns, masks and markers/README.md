@@ -1,4 +1,3 @@
-# Сайт портфолио. Презентация
+# Паттерн 
 
-## Идея проекта
-![Alt text](img/page2.jpg)
+![Alt text](pattern.svg)

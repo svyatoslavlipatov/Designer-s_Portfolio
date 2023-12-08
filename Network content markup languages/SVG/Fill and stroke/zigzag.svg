@@ -1,0 +1,10 @@
+<svg width="340" height="240"
+xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <polyline points="111 61.5 217.984 61.5 123.035 180.231 229.738 180.06" stroke="#1a7070" stroke-width="75" stroke-linecap="square" fill="none"></polyline>
+
+  <polyline points="122 61.5 217.984 61.5 123.035 180.231 218.738 180.06" stroke="#13adad" stroke-width="45" stroke-linejoin="round" stroke-linecap="round" fill="none"></polyline>
+
+  <polyline points="120 61.5 217.984 61.5 123.035 180.231 220.738 180.06" stroke="yellow" stroke-width="10" stroke-linejoin="bevel" fill="none"></polyline>
+
+</svg>

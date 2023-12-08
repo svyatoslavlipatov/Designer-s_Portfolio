@@ -1,0 +1,22 @@
+<svg width="400" height="325"
+xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
+<circle r="45" cx="55" cy="65" stroke="#8b4513" fill="#8b4513"></circle> 
+<circle r="25" cx="55" cy="65" stroke="#ffa500" fill="#ffa500"></circle> 
+<circle r="45" cx="235" cy="65" stroke="#8b4513" fill="#8b4513"></circle> 
+<circle r="25" cx="235" cy="65" stroke="#ffa500" fill="#ffa500"></circle> 
+<ellipse cx="145" cy="150" rx="120" ry="95" stroke="#8b4513" fill="#8b4513"></ellipse> 
+<circle r="7" cx="145" cy="220" fill="none" stroke="#452209" stroke-width="5"></circle> 
+<ellipse cx="175" cy="-15" rx="40" ry="33" transform="rotate(55)" stroke="#ffa500" fill="#ffa500"></ellipse>
+<ellipse cx="-10" cy="225" rx="40" ry="33" transform="rotate(-55)" stroke="#ffa500" fill="#ffa500"></ellipse>
+<ellipse cx="183" cy="-15" rx="21" ry="19" transform="rotate(55)" stroke="white" fill="white"></ellipse>
+<ellipse cx="-17" cy="225" rx="21" ry="19" transform="rotate(-55)" stroke="white" fill="white"></ellipse>
+<circle r="12" cx="122" cy="148" stroke="black" fill="black"></circle> 
+<circle r="12" cx="170" cy="149" stroke="black" fill="black"></circle> 
+<circle r="4" cx="174" cy="144" stroke="white" fill="white"></circle> 
+<circle r="4" cx="125" cy="143" stroke="white" fill="white"></circle> 
+<ellipse cx="146" cy="175" rx="32" ry="20" stroke="black" fill="black"></ellipse>
+<ellipse cx="148" cy="170" rx="23" ry="12" stroke="#181818" fill="#181818"></ellipse>
+<ellipse cx="152" cy="167" rx="10" ry="5" stroke="#2d2d2d" fill="#2d2d2d"></ellipse>
+<rect x="54" y="105" width="23" height="6" rx="3" transform="rotate(346)" fill="#452209" stroke="#452209"></rect>
+<rect x="204" y="30" width="23" height="6" rx="3" transform="rotate(16)" fill="#452209" stroke="#452209"></rect>   
+</svg>

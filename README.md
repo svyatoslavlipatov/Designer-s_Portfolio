@@ -25,3 +25,11 @@
     - [Figma 😎](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Basics_of_computer_graphics/FIGMA)
         - [Модель интерфейса 😎](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Basics_of_computer_graphics/FIGMA/interface)
         - [Модель холодильника 😎](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Basics_of_computer_graphics/FIGMA/refrigerator%20model)
+
+- **[Предмет "Языки разметки сетевого контента"](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Network%20content%20markup%20languages)**
+    - [Сайт портфолио 😎]()
+    - [SVG работы 😎]()
+        - [Базовые фигуры 😎]()
+        - [Заливка и обводка 😎]()
+        - [Паттерны, маски и маркеры 😎]()
+    

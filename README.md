@@ -28,7 +28,7 @@
 
 - **[Предмет "Языки разметки сетевого контента"](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Network%20content%20markup%20languages)**
     - [Сайт портфолио 😎](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Network%20content%20markup%20languages/PORTFOLIO%20WEBSITE)
-    - [SVG работы 😎]()
+    - [SVG работы 😎](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Network%20content%20markup%20languages/SVG)
         - [Базовые фигуры 😎](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Network%20content%20markup%20languages/SVG/Base%20Figures)
         - [Заливка и обводка 😎](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Network%20content%20markup%20languages/SVG/Fill%20and%20stroke)
         - [Паттерны, маски и маркеры 😎](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Network%20content%20markup%20languages/SVG/Patterns%2C%20masks%20and%20markers)

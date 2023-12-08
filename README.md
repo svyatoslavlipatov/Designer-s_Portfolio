@@ -11,5 +11,3 @@
        - [Фрактальный узор 🤖](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Basics_of_computer_graphics/COREL/fractal%20pattern)
        - [Леттеринг 🤖](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Basics_of_computer_graphics/COREL/lettering)
   - [Figma 😎](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Basics_of_computer_graphics/FIGMA)
-  - [Video Tutorials](#tutorials)
-  - [Contribute](#contribute)

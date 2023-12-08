@@ -3,7 +3,7 @@
 
 В данном репозитории собраны все работы, связанные с дизайном.  
 
-### К:
+### Контент:
   - [Photoshop 😃](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Basics_of_computer_graphics/PHOTOSHOP)
   - [CorelDraw 👻](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Basics_of_computer_graphics/COREL)
        - [Макеты праздничных игрушек 🤖](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Basics_of_computer_graphics/COREL/LayoutsOfNewYear'sToys)

@@ -5,7 +5,7 @@
 
 ### Контент:
 - **[Предмет "Основы компьютерной графики](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Basics_of_computer_graphics/PHOTOSHOP)**
-    - [Photoshop <img src="https://www.flaticon.com/ru/free-icon/adobe-photoshop_5210800?term=photoshop&page=1&position=2&origin=search&related_id=5210800" alt="LinkedIn Badge"/>](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Basics_of_computer_graphics/PHOTOSHOP)
+    - [Photoshop <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" alt="LinkedIn Badge"/>](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Basics_of_computer_graphics/PHOTOSHOP)
         - [Визитки 🤖](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Basics_of_computer_graphics/PHOTOSHOP/BusinessCard)
         - [Дизайн группы вк 😃](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Basics_of_computer_graphics/PHOTOSHOP/VK%20group%20design)
         - [Обложка YouTube 😃](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Basics_of_computer_graphics/PHOTOSHOP/YouTube%20covers)

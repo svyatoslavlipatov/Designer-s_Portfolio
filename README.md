@@ -4,12 +4,16 @@
 В данном репозитории собраны все работы, связанные с дизайном за период учебы в университете 🏫.  
 
 ### Контент:
-- **[Практика 1](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Practice_1)**
+- **[Предмет "Дизайн веб-приложений"](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Practice_1)**
     - [Проект для сайта игровой компании 😎](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/WebApplicationDesign/ProjectSiteGameCompany)
         - [Дизайн сайта](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/WebApplicationDesign/ProjectSiteGameCompany/WebSite)
         - [Документация](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/WebApplicationDesign/ProjectSiteGameCompany/documentation)
 
-- **[Предмет "Дизайн веб-приложений"](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Practice_1)**
+- **[Практика 1](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Practice_1)**
+    - [Комикс 😎]()
+
+
+- **[Технологическая (проектно-технологическая) практика](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Practice_1)**
     - [Комикс 😎](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Practice_1/comics)
     - [Композиции 😎](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Practice_1/compositions_design)
     - [Постеры 😎](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Practice_1/posters)

@@ -34,4 +34,4 @@
 ![Alt text](composition_center/shape_pastel.jpg)
 
 ### Цвет. Родственные и контрастные цвета
-![Alt text](composition_center/shape_pastel.jpg)
+![Alt text](composition_center/colors_related_contrasting.jpg)

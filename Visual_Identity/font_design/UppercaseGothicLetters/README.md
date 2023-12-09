@@ -3,7 +3,3 @@
 ### Алфавит
 
 ![Alt text](ex.jpg)
-
-### Слоган
-
-![Alt text](slogan.jpg)

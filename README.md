@@ -4,6 +4,12 @@
 В данном репозитории собраны все работы, связанные с дизайном.  
 
 ### Контент:
+- **[Практика 1](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Practice_1)**
+    - [Комикс 😎](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Practice_1/comics)
+    - [Композиции 😎](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Practice_1/compositions_design)
+    - [Постеры 😎](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Practice_1/posters)
+    - [Таблицы стилизации 😎](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Practice_1/styling_table)
+
 - **[Предмет "Основы компьютерной графики](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Basics_of_computer_graphics/PHOTOSHOP)**
     - [Photoshop](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Basics_of_computer_graphics/PHOTOSHOP)
         - [Визитки 🤖](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Basics_of_computer_graphics/PHOTOSHOP/BusinessCard)

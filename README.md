@@ -60,7 +60,17 @@
 
 
 ### Контент (немного программирования) 🖥️💻:
-- **[Предмет "Компьютерное зрение" ]([https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Multimedia%20technologies%20and%20animation](https://github.com/svyatoslavlipatov/Introduction-to-Computer-Vision/tree/main/Python%20and%20numpy%20basics))**
-    - [Компьютерное зрение)](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Multimedia%20technologies%20and%20animation/Пиксельная%20графика%20(статика))
+- **[Предмет "Компьютерное зрение" 😎](https://github.com/svyatoslavlipatov/Introduction-to-Computer-Vision/tree/main/Python%20and%20numpy%20basics)**
+    - [Номинальное разрешение](https://github.com/svyatoslavlipatov/Introduction-to-Computer-Vision/tree/main/Python%20and%20numpy%20basics/task1)
+    - [Поиск "своего" изображения](https://github.com/svyatoslavlipatov/Introduction-to-Computer Vision/tree/main/Python%20and%20numpy%20basics/task11_findmypicture)
+    - [Номинальное разрешение]()
+    - [Номинальное разрешение]()
+    - [Номинальное разрешение]()
+    - [Номинальное разрешение]()
+    - [Номинальное разрешение]()
+    - [Номинальное разрешение]()
+    - [Номинальное разрешение]()
+    - [Номинальное разрешение]()
+    - [Номинальное разрешение]()
 
 > и это только начало...🤫

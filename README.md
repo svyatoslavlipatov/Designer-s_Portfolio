@@ -60,6 +60,7 @@
 
 
 ### Контент (немного программирования) 🖥️💻:
+
 - **[Предмет "Компьютерное зрение" 😎](https://github.com/svyatoslavlipatov/Introduction-to-Computer-Vision/tree/main/Python%20and%20numpy%20basics)**
     - [Номинальное разрешение](https://github.com/svyatoslavlipatov/Introduction-to-Computer-Vision/tree/main/Python%20and%20numpy%20basics/task1)
     - [Поиск "своего" изображения](https://github.com/svyatoslavlipatov/Introduction-to-Computer-Vision/tree/main/Python%20and%20numpy%20basics/task11_findmypicture)
@@ -72,8 +73,10 @@
     - [Поиск карандашиков](https://github.com/svyatoslavlipatov/Introduction-to-Computer-Vision/tree/main/Python%20and%20numpy%20basics/task7_pencils)
     - [Траектория](https://github.com/svyatoslavlipatov/Introduction-to-Computer-Vision/tree/main/Python%20and%20numpy%20basics/task8(trajectory))
     - [Количество фигур разных оттенков и формы](https://github.com/svyatoslavlipatov/Introduction-to-Computer-Vision/tree/main/Python%20and%20numpy%20basics/task9_shapesandshades)
+      
 - **[Предмет "Компьютерное зрение" 😎](https://github.com/svyatoslavlipatov/Introduction-to-Computer-Vision/tree/main/Python%20and%20numpy%20basics)**
     - [База данных "Отель"](https://github.com/svyatoslavlipatov/database_hotel)
+      
 - **[Предмет "Интерфейс дизайнов" 😎]()**
     - [QML_1](https://github.com/svyatoslavlipatov/InterfaceDesign/tree/main/QML_1)
     - [QML_2](https://github.com/svyatoslavlipatov/InterfaceDesign/tree/main/QML_2)

@@ -62,15 +62,15 @@
 ### Контент (немного программирования) 🖥️💻:
 - **[Предмет "Компьютерное зрение" 😎](https://github.com/svyatoslavlipatov/Introduction-to-Computer-Vision/tree/main/Python%20and%20numpy%20basics)**
     - [Номинальное разрешение](https://github.com/svyatoslavlipatov/Introduction-to-Computer-Vision/tree/main/Python%20and%20numpy%20basics/task1)
-    - [Поиск "своего" изображения](https://github.com/svyatoslavlipatov/Introduction-to-Computer Vision/tree/main/Python%20and%20numpy%20basics/task11_findmypicture)
-    - [Номинальное разрешение]()
-    - [Номинальное разрешение]()
-    - [Номинальное разрешение]()
-    - [Номинальное разрешение]()
-    - [Номинальное разрешение]()
-    - [Номинальное разрешение]()
-    - [Номинальное разрешение]()
-    - [Номинальное разрешение]()
-    - [Номинальное разрешение]()
+    - [Поиск "своего" изображения](https://github.com/svyatoslavlipatov/Introduction-to-Computer-Vision/tree/main/Python%20and%20numpy%20basics/task11_findmypicture)
+    - [Круг или квадратик](https://github.com/svyatoslavlipatov/Introduction-to-Computer-Vision/tree/main/Python%20and%20numpy%20basics/task12_circle_or_square)
+    - [Провода](https://github.com/svyatoslavlipatov/Introduction-to-Computer-Vision/tree/main/Python%20and%20numpy%20basics/task2(wires))
+    - [Звездочки](https://github.com/svyatoslavlipatov/Introduction-to-Computer-Vision/tree/main/Python%20and%20numpy%20basics/task3(stars))
+    - [Монетки](https://github.com/svyatoslavlipatov/Introduction-to-Computer-Vision/tree/main/Python%20and%20numpy%20basics/task4(coins))
+    - [Объекты](https://github.com/svyatoslavlipatov/Introduction-to-Computer-Vision/tree/main/Python%20and%20numpy%20basics/task5(objects))
+    - [Словарик](https://github.com/svyatoslavlipatov/Introduction-to-Computer-Vision/tree/main/Python%20and%20numpy%20basics/task6_frequencydictionary)
+    - [Карандаши](https://github.com/svyatoslavlipatov/Introduction-to-Computer-Vision/tree/main/Python%20and%20numpy%20basics/task7_pencils)
+    - [Траектория](https://github.com/svyatoslavlipatov/Introduction-to-Computer-Vision/tree/main/Python%20and%20numpy%20basics/task8(trajectory))
+    - [Колво фигур и оттенки](https://github.com/svyatoslavlipatov/Introduction-to-Computer-Vision/tree/main/Python%20and%20numpy%20basics/task9_shapesandshades)
 
 > и это только начало...🤫

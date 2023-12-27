@@ -56,4 +56,7 @@
 
 - **[Предмет "Мультмедия технологии и анимации" 😎](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Multimedia%20technologies%20and%20animation)**
     - [Пиксельная графика (статика)](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Multimedia%20technologies%20and%20animation/Пиксельная%20графика%20(анимация))
+
+
+> и это только начало...🤫
     - [Пиксельная графика (анимация)](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Multimedia%20technologies%20and%20animation/Пиксельная%20графика%20(статика))

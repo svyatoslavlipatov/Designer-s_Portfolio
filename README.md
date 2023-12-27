@@ -59,4 +59,8 @@
     - [Пиксельная графика (анимация)](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Multimedia%20technologies%20and%20animation/Пиксельная%20графика%20(статика))
 
 
+### Контент (немного программирования) 🖥️💻:
+- **[Предмет "Компьютерное зрение" ]([https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Multimedia%20technologies%20and%20animation](https://github.com/svyatoslavlipatov/Introduction-to-Computer-Vision/tree/main/Python%20and%20numpy%20basics))**
+    - [Компьютерное зрение)](https://github.com/svyatoslavlipatov/Designer-s_Portfolio/tree/main/Multimedia%20technologies%20and%20animation/Пиксельная%20графика%20(статика))
+
 > и это только начало...🤫

@@ -72,5 +72,16 @@
     - [Поиск карандашиков](https://github.com/svyatoslavlipatov/Introduction-to-Computer-Vision/tree/main/Python%20and%20numpy%20basics/task7_pencils)
     - [Траектория](https://github.com/svyatoslavlipatov/Introduction-to-Computer-Vision/tree/main/Python%20and%20numpy%20basics/task8(trajectory))
     - [Количество фигур разных оттенков и формы](https://github.com/svyatoslavlipatov/Introduction-to-Computer-Vision/tree/main/Python%20and%20numpy%20basics/task9_shapesandshades)
+- **[Предмет "Компьютерное зрение" 😎](https://github.com/svyatoslavlipatov/Introduction-to-Computer-Vision/tree/main/Python%20and%20numpy%20basics)**
+    - [База данных "Отель"](https://github.com/svyatoslavlipatov/database_hotel)
+- **[Предмет "Интерфейс дизайнов" 😎]()**
+    - [QML_1](https://github.com/svyatoslavlipatov/InterfaceDesign/tree/main/QML_1)
+    - [QML_2](https://github.com/svyatoslavlipatov/InterfaceDesign/tree/main/QML_2)
+    - [QML_3](https://github.com/svyatoslavlipatov/InterfaceDesign/tree/main/QML_3)
+    - [QML_4](https://github.com/svyatoslavlipatov/InterfaceDesign/tree/main/QML_4)
+    - [QML_5](https://github.com/svyatoslavlipatov/InterfaceDesign/tree/main/QML_5)
+    - [QML_6](https://github.com/svyatoslavlipatov/InterfaceDesign/tree/main/QML_6)
+    - [QML_7](https://github.com/svyatoslavlipatov/InterfaceDesign/tree/main/QML_7)
+    - [QML_8](https://github.com/svyatoslavlipatov/InterfaceDesign/tree/main/QML_8)
 
-> и это только начало...🤫
+> и это только начало пути...🤫

@@ -74,7 +74,7 @@
     - [Траектория](https://github.com/svyatoslavlipatov/Introduction-to-Computer-Vision/tree/main/Python%20and%20numpy%20basics/task8(trajectory))
     - [Количество фигур разных оттенков и формы](https://github.com/svyatoslavlipatov/Introduction-to-Computer-Vision/tree/main/Python%20and%20numpy%20basics/task9_shapesandshades)
       
-- **[Предмет "Компьютерное зрение" 😎](https://github.com/svyatoslavlipatov/Introduction-to-Computer-Vision/tree/main/Python%20and%20numpy%20basics)**
+- **[Предмет "Базы данных" 😎](https://github.com/svyatoslavlipatov/Introduction-to-Computer-Vision/tree/main/Python%20and%20numpy%20basics)**
     - [База данных "Отель"](https://github.com/svyatoslavlipatov/database_hotel)
       
 - **[Предмет "Интерфейс дизайнов" 😎]()**

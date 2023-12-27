@@ -62,7 +62,7 @@
 ### Контент (немного программирования) 🖥️💻:
 - **[Предмет "Компьютерное зрение" 😎](https://github.com/svyatoslavlipatov/Introduction-to-Computer-Vision/tree/main/Python%20and%20numpy%20basics)**
     - [Номинальное разрешение](https://github.com/svyatoslavlipatov/Introduction-to-Computer-Vision/tree/main/Python%20and%20numpy%20basics/task1)
-    - [Поиск "своего" изображения](https://github.com/svyatoslavlipatov/Introduction-to-Computer Vision/tree/main/Python%20and%20numpy%20basics/task11_findmypicture)
+    - [Поиск "своего" изображения](https://github.com/svyatoslavlipatov/Introduction-to-Computer-Vision/tree/main/Python%20and%20numpy%20basics/task11_findmypicture)
     - [Круг или квадратик](https://github.com/svyatoslavlipatov/Introduction-to-Computer-Vision/tree/main/Python%20and%20numpy%20basics/task12_circle_or_square)
     - [Провода](https://github.com/svyatoslavlipatov/Introduction-to-Computer-Vision/tree/main/Python%20and%20numpy%20basics/task2(wires))
     - [Звездочки](https://github.com/svyatoslavlipatov/Introduction-to-Computer-Vision/tree/main/Python%20and%20numpy%20basics/task3(stars))
